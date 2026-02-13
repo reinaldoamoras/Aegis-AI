@@ -1,0 +1,8 @@
+
+{
+  "name": "Aegis AI - Elite Quant & Memecoin Automator",
+  "description": "A high-performance, AI-driven automated trading platform for Bitget, featuring specialized Aegis-Shield bots for mainstream crypto, memecoins, and ultra-fast day trading with advanced zero-loss protection.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
